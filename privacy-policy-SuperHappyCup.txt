@@ -1,0 +1,42 @@
+Super Happy Cup: 
+Privacy Policy
+
+**Privacy Policy for Super Happy Cup**
+
+This Privacy Policy governs the manner in which Super Happy Cup ("we," "us," or "our") collects, uses, maintains, and discloses information collected from users of our Android game, Super Happy Cup, available on the Google Play Store.
+
+### Information We Collect
+
+Super Happy Cup does not collect any personally identifiable information from its users. However, we use the AdMob SDK, an advertising platform provided by Google, which may collect certain non-personal information for the purpose of serving personalized ads and improving ad targeting.
+
+The information collected by AdMob may include:
+
+- Device and network information, such as device type, operating system version, and network connectivity.
+
+- Advertising identifiers, such as Google Advertising ID (GAID).
+
+- Location data (only if you have granted the necessary permissions).
+
+Please note that we do not have control over the data collected by AdMob. You can review Google's Privacy Policy for more information on how AdMob handles user data.
+
+### How We Use Information
+
+The information collected by AdMob is used to personalize and optimize the advertising experience within Super Happy Cup. It helps in displaying relevant ads to users and may improve the overall quality of advertisements.
+
+### Your Consent
+
+By using Super Happy Cup, you consent to the collection and use of information as described in this Privacy Policy. If you do not agree with our practices, please do not use our game.
+
+### Advertising Choices
+
+You may see personalized ads based on the data collected by AdMob. To opt out of personalized ads, you can adjust your device settings. You can also reset your advertising identifier or opt out of personalized ads through your device's settings.
+
+### Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes to our practices or for other operational, legal, or regulatory reasons. We encourage you to review this Privacy Policy periodically for any updates.
+
+### Contact Us
+
+If you have any questions about this Privacy Policy or the data collection practices of Super Happy Cup, please contact us at [recommsip@gmail.com].
+
+This Privacy Policy was last updated on [11/3/2023].
